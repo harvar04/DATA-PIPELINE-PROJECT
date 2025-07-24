@@ -36,3 +36,6 @@ Scikit-learn – for preprocessing tools like SimpleImputer, LabelEncoder, and S
 Place input_data.csv in the same folder.
 Run: python etl_pipeline.py
 Output: processed_data.csv will be generated
+# OUTPUT 
+<img width="1152" height="727" alt="image" src="https://github.com/user-attachments/assets/a311205f-54ed-4c81-8be3-e8fa35b84ea3" />
+
